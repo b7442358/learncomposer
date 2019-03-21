@@ -5,5 +5,10 @@
     "require": {
         "php": ">=5.3",
         "b7442358/composer": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "b7442358\\composer\\": "src/"
+        }
     }
 }
