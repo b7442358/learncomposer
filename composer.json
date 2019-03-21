@@ -4,11 +4,5 @@
     "type": "library",
     "require": {
         "php": ">=5.3"
-    },
-    "authors": [
-        {
-            "name": "风神龙",
-            "email": "b7442358@163.com"
-        }
-    ]
+    }
 }
