@@ -1,5 +1,5 @@
 <?php
-namespace b7442358/composer;
+namespace b7442358\composer;
 
 class Test
 {
