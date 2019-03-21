@@ -7,4 +7,7 @@ class Test
     {
         return 'this is b7442358/composer Test Class test methond';
     }
+    public function aaa(){
+        return 'aaa';
+    }
 }
